@@ -53,3 +53,24 @@ nav li a {
 nav li a:hover {
     background-color: #4CAF50;
 }
+
+/* [SWE-2] Стили блока content (main) */
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+    line-height: 1.6;
+    font-size: 1.1rem;
+}
+
+main h2 {
+    color: #2E7D32;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+main p {
+    margin-bottom: 1rem;
+    text-align: justify;
+}
